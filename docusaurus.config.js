@@ -74,9 +74,21 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'University',
           },
-          {to: '/blog', label: 'Home', position: 'right'},
+
+
+
+
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'right'
+          },
+
+
+
+
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
