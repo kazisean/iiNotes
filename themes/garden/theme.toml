@@ -1,14 +1,22 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
 name = "Digital Garden"
 license = "MIT"
-licenselink = "https://github.com/apvarun/digital-garden-hugo-theme/blob/master/LICENSE"
-description = "Build your own personal Digital Garden effortlessly with this Hugo theme"
-homepage = "https://github.com/apvarun/digital-garden-hugo-theme"
-demosite = "https://digital-garden-hugo-theme.vercel.app/"
-tags = ["Hugo", "theme", "digital garden", "blog", "modern", "responsive"]
-features = ["clean", "3 column", "minimal", "digital garden", "mobile", "personal", "responsive", "simple", "tailwind", "blog", "white"]
-min_version = "0.121.1"
+licenselink = "https://github.com/paulmartins/hugo-digital-garden-theme/blob/master/LICENSE"
+description = "Theme inspire by Maggie Appleton's digital garden."
+homepage = "https://github.com/paulmartins/hugo-digital-garden-theme/"
+tags = ["clean", "customizable", "personal", "dark", "light", "digital garden"]
+features = ["blog", "highlighting", "responsive"]
+min_version = "0.81.0"
+demosite = "https://hugo-digital-garden-demo.netlify.app/"
 
 [author]
-  name = "Varun A P"
-  homepage = "https://apvarun.com"
+  name = "Paul Martins"
+  homepage = "www.paul-martins.com"
+  twitter = "https://twitter.com/Paul_Martins1"
 
+# If porting an existing theme
+[original]
+  name = "Maggie Appleton"
+  homepage = "https://maggieappleton.com/"
