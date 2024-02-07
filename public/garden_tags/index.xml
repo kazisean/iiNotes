@@ -16,5 +16,12 @@
       <guid>https://www.example.com/garden_tags/computer-science/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Math</title>
+      <link>https://www.example.com/garden_tags/math/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/garden_tags/math/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

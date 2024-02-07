@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on My Digital Garden</title>
-    <link>https://www.example.com/notes/</link>
-    <description>Recent content in Notes on My Digital Garden</description>
+    <title>Math on My Digital Garden</title>
+    <link>https://www.example.com/garden_tags/math/</link>
+    <description>Recent content in Math on My Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nigalya Ponya ©</copyright>
     <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.com/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CSO</title>
-      <link>https://www.example.com/notes/cs/cso/</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/notes/cs/cso/</guid>
-      <description>This is a placeholder text for now</description>
-    </item>
+    <atom:link href="https://www.example.com/garden_tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DISM</title>
       <link>https://www.example.com/notes/math/discrete/</link>
