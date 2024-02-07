@@ -7,6 +7,5 @@ garden_tags: ["Computer Science"]
 status: "seeding"
 ---
 
-![Image alt](cs-banner.jpeg)
 
 
