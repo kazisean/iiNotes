@@ -1,14 +1,15 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
 title = "My Digital Garden"
-theme = "garden"
+theme = "hugo-digital-garden-theme"
+themesdir = "../../"
 copyright = "Nigalya Ponya ©"
 
 
 [params]
-  name = "Note"
-  description = "description"
-  initials = "NT"
+  name = "Nigalya Ponya"
+  description = "Red panda living in the eastern Himalayas."
+  initials = "NP"
   googleAnalytics = ""
 
   [[params.social]]
@@ -78,4 +79,4 @@ copyright = "Nigalya Ponya ©"
     typographer = true
   [markup.highlight]
     # Choose from https://xyproto.github.io/splash/docs/all.html
-    style = 'base16-snazzy'
+    style = 'monokailight'
